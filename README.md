@@ -1,0 +1,1 @@
+this is a macbook pro's first git project!
